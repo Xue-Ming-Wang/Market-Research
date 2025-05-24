@@ -1,4 +1,4 @@
-# Market-Research
+# Market Research/Analysis
 
 # Introduction
 This repository presents four detailed market analyses to support investment decision-making. Two reports evaluate established hospitality companies, Accor S.A. and Galaxy Entertainment Group, while two examine high-growth startups, Connected Insurance and OneBeat. The hospitality analyses assess Accor's global hotel operations and Galaxy Entertainment's gaming and resort business, providing insights into their financial performance, competitive advantages, and market positioning. The startup analyses explore Connected Insurance's innovative insurtech platform for the sharing economy and OneBeat's AI-powered retail optimization solutions, highlighting their growth strategies, technological differentiation, and market potential.
